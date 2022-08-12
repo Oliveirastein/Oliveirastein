@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme Oliveira 👋
 
 - 🔭 Atualmente sou estudante de Front-end
-- 🌱 Estudando atualmente React
+- 🌱 Estudando React
 - 😸 eu amo gatos
 
 <div align="center">
